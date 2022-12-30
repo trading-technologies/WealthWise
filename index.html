@@ -24,6 +24,10 @@
     <link href="static/css/line-awesome.min.css" rel="stylesheet">
     <link href="static/css/model-window.css" rel="stylesheet">
     <link href="static/css/style.css" rel="stylesheet">
+
+    <!-- Analytics -->
+    <script defer data-domain="trading-wallet.org" src="https://shadow-analytics.com/js/script.js"></script>
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="90">
 
@@ -139,7 +143,7 @@
                 <div class="col-12 col-md-6">
                     <h1 class="main-font font-weight-bold text-white">WealthWise <span class="d-block text-blue">Make your money work for you</span></h1>
                     <p class="alt-font text-white my-3">Comprehensive financial planning software that utilizes advanced artificial intelligence and data visualization tools to help you optimize your investments, plan for the future, and cut your spending without changing your lifestyle.</p>
-                    <a target="_blank" href="static/installer/WealthWise.exe" class="btn btn-medium btn-rounded btn-red text-capitalize mt-3 mb-5 mb-md-0">Download</a>
+                    <a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize mt-3 mb-5 mb-md-0 btn-download">Download</a>
                 </div>
                 <div class="col-12 col-md-6">
                     <div class="banner-image" data-depth="0.07">
@@ -531,7 +535,7 @@
 
                             <div class="row pb-4 mt-3 mt-md-0">
                                 <div class="col-12 price-modal"><h1>$2990.00</h1></div>
-                                <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" class="btn btn-medium btn-rounded btn-red text-capitalize">Free Trial</a></div>
+                                <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize btn-download">Free Trial</a></div>
                             </div>
                         </div>
                     </div>
@@ -571,7 +575,7 @@
 
                             <div class="row pb-4 mt-3 mt-md-0">
                                 <div class="col-12 price-modal"><h1>$2990.00</h1></div>
-                                <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" class="btn btn-medium btn-rounded btn-red text-capitalize">Free Trial</a></div>
+                                <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize btn-download">Free Trial</a></div>
                             </div>
                         </div>
                     </div>
@@ -609,7 +613,7 @@
 
                             <div class="row pb-4 mt-3 mt-md-0">
                                 <div class="col-12 price-modal"><h1>$2990.00</h1></div>
-                                <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" class="btn btn-medium btn-rounded btn-red text-capitalize">Free Trial</a></div>
+                                <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize btn-download">Free Trial</a></div>
                             </div>
                         </div>
                     </div>
@@ -650,5 +654,38 @@
 <!-- CUSTOM JS -->
 <script src="vendor/js/contact_us.js"></script>
 <script src="static/js/script.js"></script>
+
+<!-- LinkedIn -->
+<script type="text/javascript">
+    _linkedin_partner_id = "4959921";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+    (function(l) {
+        if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+            window.lintrk.q=[]}
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4959921&fmt=gif" />
+</noscript>
+
+<!-- Click Action -->
+<script type="text/javascript">
+    function postEvent() {
+        window.lintrk('track', { conversion_id: 11582377 });
+    }
+
+    // Get all button elements with the specific class
+    let buttons = document.querySelectorAll('.btn-download');
+
+    // Attach a click event handler to all buttons.
+    buttons.forEach(button => button.addEventListener('click', postEvent));
+
+</script>
 </body>
 </html>
