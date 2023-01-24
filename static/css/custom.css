@@ -1,0 +1,1668 @@
+#DIV_1 {
+    align-items: center;
+    background-position: 50% 50%;
+    block-size: 189.938px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    bottom: 0px;
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: flex;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 189.938px;
+    inline-size: 1920px;
+    inset-block-end: 0px;
+    inset-block-start: 0px;
+    inset-inline-end: 0px;
+    inset-inline-start: 0px;
+    justify-content: center;
+    left: 0px;
+    line-height: 27px;
+    min-block-size: 1px;
+    min-height: 1px;
+    padding-block-end: 64px;
+    padding-block-start: 40px;
+    perspective-origin: 960px 94.9688px;
+    position: relative;
+    right: 0px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    top: 0px;
+    transform-origin: 960px 94.9688px;
+    width: auto;
+    z-index: 12;
+    /*background: rgb(255, 221, 194) none repeat scroll 50% 50% / cover padding-box border-box;*/
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 40px 0px 64px;
+}/*#DIV_1*/
+
+#DIV_1:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 0px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 0px;
+    min-block-size: 1px;
+    min-height: 1px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_1:after*/
+
+#DIV_1:before {
+    block-size: 189.938px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    bottom: 0px;
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    content: '""';
+    display: block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 189.938px;
+    inline-size: 1920px;
+    inset-block-end: 0px;
+    inset-block-start: 0px;
+    inset-inline-end: 0px;
+    inset-inline-start: 0px;
+    left: 0px;
+    line-height: 27px;
+    opacity: 0.5;
+    perspective-origin: 960px 94.9688px;
+    position: absolute;
+    right: 0px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    top: 0px;
+    transform-origin: 960px 94.9688px;
+    width: auto;
+    z-index: 1;
+    background: rgb(0, 121, 179) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_1:before*/
+
+#DIV_2 {
+    block-size: 85.9375px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 85.9375px;
+    inline-size: 1920px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 15px;
+    padding-inline-start: 15px;
+    perspective-origin: 960px 42.9688px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 960px 42.9688px;
+    width: auto;
+    z-index: 1;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 15px;
+}/*#DIV_2*/
+
+#DIV_2:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_2:after*/
+
+#DIV_2:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_2:before*/
+
+#H2_3 {
+    block-size: 23.9375px;
+    border-block-end-color: rgb(45, 45, 45);
+    border-block-start-color: rgb(45, 45, 45);
+    border-inline-end-color: rgb(45, 45, 45);
+    border-inline-start-color: rgb(45, 45, 45);
+    bottom: 0px;
+    box-sizing: border-box;
+    caret-color: rgb(45, 45, 45);
+    color: rgb(45, 45, 45);
+    column-rule-color: rgb(45, 45, 45);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    font-weight: 400;
+    height: 23.9375px;
+    inline-size: 1890px;
+    inset-block-end: 0px;
+    inset-block-start: 0px;
+    inset-inline-end: 0px;
+    inset-inline-start: 0px;
+    left: 0px;
+    line-height: 23.94px;
+    margin-block-end: 8px;
+    margin-block-start: 0px;
+    opacity: 0.6;
+    perspective-origin: 945px 11.9688px;
+    position: relative;
+    right: 0px;
+    text-align: center;
+    text-decoration: none solid rgb(45, 45, 45);
+    text-emphasis-color: rgb(45, 45, 45);
+    text-rendering: optimizelegibility;
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    top: 0px;
+    transform-origin: 945px 11.9688px;
+    width: 1890px;
+    border: 0px none rgb(45, 45, 45);
+    margin: 0px 0px 8px;
+    outline: rgb(45, 45, 45) none 0px;
+}/*#H2_3*/
+
+#H2_3:after {
+    border-block-end-color: rgb(45, 45, 45);
+    border-block-start-color: rgb(45, 45, 45);
+    border-inline-end-color: rgb(45, 45, 45);
+    border-inline-start-color: rgb(45, 45, 45);
+    box-sizing: border-box;
+    caret-color: rgb(45, 45, 45);
+    color: rgb(45, 45, 45);
+    column-rule-color: rgb(45, 45, 45);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    font-weight: 400;
+    line-height: 23.94px;
+    text-align: center;
+    text-decoration: none solid rgb(45, 45, 45);
+    text-emphasis-color: rgb(45, 45, 45);
+    text-rendering: optimizelegibility;
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    border: 0px none rgb(45, 45, 45);
+    outline: rgb(45, 45, 45) none 0px;
+}/*#H2_3:after*/
+
+#H2_3:before {
+    border-block-end-color: rgb(45, 45, 45);
+    border-block-start-color: rgb(45, 45, 45);
+    border-inline-end-color: rgb(45, 45, 45);
+    border-inline-start-color: rgb(45, 45, 45);
+    box-sizing: border-box;
+    caret-color: rgb(45, 45, 45);
+    color: rgb(45, 45, 45);
+    column-rule-color: rgb(45, 45, 45);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    font-weight: 400;
+    line-height: 23.94px;
+    text-align: center;
+    text-decoration: none solid rgb(45, 45, 45);
+    text-emphasis-color: rgb(45, 45, 45);
+    text-rendering: optimizelegibility;
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    border: 0px none rgb(45, 45, 45);
+    outline: rgb(45, 45, 45) none 0px;
+}/*#H2_3:before*/
+
+#DIV_4 {
+    align-items: center;
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: flex;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 1890px;
+    justify-content: center;
+    line-height: 27px;
+    perspective-origin: 945px 27px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 945px 27px;
+    width: 1890px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    flex-flow: row wrap;
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_4*/
+
+#DIV_4:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_4:after*/
+
+#DIV_4:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_4:before*/
+
+#DIV_5 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 129px;
+    line-height: 27px;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 24px;
+    padding-inline-start: 24px;
+    perspective-origin: 64.5px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 64.5px 27px;
+    width: 129px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 24px;
+}/*#DIV_5*/
+
+#DIV_5:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_5:after*/
+
+#DIV_5:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_5:before*/
+
+#PICTURE_6, #IMG_8 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: inline-block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 81px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    perspective-origin: 40.5px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 40.5px 27px;
+    vertical-align: middle;
+    width: 81px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_6, #IMG_8*/
+
+#PICTURE_6:after, #IMG_8:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_6:after, #IMG_8:after*/
+
+#PICTURE_6:before, #IMG_8:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_6:before, #IMG_8:before*/
+
+#SOURCE_7, #SOURCE_11, #SOURCE_15, #SOURCE_19, #SOURCE_23, #SOURCE_27, #SOURCE_31, #SOURCE_35 {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    perspective-origin: 0px 0px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 0px 0px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#SOURCE_7, #SOURCE_11, #SOURCE_15, #SOURCE_19, #SOURCE_23, #SOURCE_27, #SOURCE_31, #SOURCE_35*/
+
+#SOURCE_7:after, #SOURCE_11:after, #SOURCE_15:after, #SOURCE_19:after, #SOURCE_23:after, #SOURCE_27:after, #SOURCE_31:after, #SOURCE_35:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#SOURCE_7:after, #SOURCE_11:after, #SOURCE_15:after, #SOURCE_19:after, #SOURCE_23:after, #SOURCE_27:after, #SOURCE_31:after, #SOURCE_35:after*/
+
+#SOURCE_7:before, #SOURCE_11:before, #SOURCE_15:before, #SOURCE_19:before, #SOURCE_23:before, #SOURCE_27:before, #SOURCE_31:before, #SOURCE_35:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#SOURCE_7:before, #SOURCE_11:before, #SOURCE_15:before, #SOURCE_19:before, #SOURCE_23:before, #SOURCE_27:before, #SOURCE_31:before, #SOURCE_35:before*/
+
+#DIV_9 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 183px;
+    line-height: 27px;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 24px;
+    padding-inline-start: 24px;
+    perspective-origin: 91.5px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 91.5px 27px;
+    width: 183px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 24px;
+}/*#DIV_9*/
+
+#DIV_9:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_9:after*/
+
+#DIV_9:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_9:before*/
+
+#PICTURE_10, #IMG_12 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: inline-block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 135px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    perspective-origin: 67.5px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 67.5px 27px;
+    vertical-align: middle;
+    width: 135px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_10, #IMG_12*/
+
+#PICTURE_10:after, #IMG_12:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_10:after, #IMG_12:after*/
+
+#PICTURE_10:before, #IMG_12:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_10:before, #IMG_12:before*/
+
+#DIV_13 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 157px;
+    line-height: 27px;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 24px;
+    padding-inline-start: 24px;
+    perspective-origin: 78.5px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 78.5px 27px;
+    width: 157px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 24px;
+}/*#DIV_13*/
+
+#DIV_13:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_13:after*/
+
+#DIV_13:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_13:before*/
+
+#PICTURE_14, #IMG_16 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: inline-block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 109px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    perspective-origin: 54.5px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 54.5px 27px;
+    vertical-align: middle;
+    width: 109px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_14, #IMG_16*/
+
+#PICTURE_14:after, #IMG_16:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_14:after, #IMG_16:after*/
+
+#PICTURE_14:before, #IMG_16:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_14:before, #IMG_16:before*/
+
+#DIV_17 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 72px;
+    line-height: 27px;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 24px;
+    padding-inline-start: 24px;
+    perspective-origin: 36px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 36px 27px;
+    width: 72px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 24px;
+}/*#DIV_17*/
+
+#DIV_17:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_17:after*/
+
+#DIV_17:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_17:before*/
+
+#PICTURE_18, #IMG_20 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: inline-block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 24px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    perspective-origin: 12px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 12px 27px;
+    vertical-align: middle;
+    width: 24px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_18, #IMG_20*/
+
+#PICTURE_18:after, #IMG_20:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_18:after, #IMG_20:after*/
+
+#PICTURE_18:before, #IMG_20:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_18:before, #IMG_20:before*/
+
+#DIV_21 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 130px;
+    line-height: 27px;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 24px;
+    padding-inline-start: 24px;
+    perspective-origin: 65px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 65px 27px;
+    width: 130px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 24px;
+}/*#DIV_21*/
+
+#DIV_21:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_21:after*/
+
+#DIV_21:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_21:before*/
+
+#PICTURE_22, #IMG_24 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: inline-block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 82px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    perspective-origin: 41px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 41px 27px;
+    vertical-align: middle;
+    width: 82px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_22, #IMG_24*/
+
+#PICTURE_22:after, #IMG_24:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_22:after, #IMG_24:after*/
+
+#PICTURE_22:before, #IMG_24:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_22:before, #IMG_24:before*/
+
+#DIV_25 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 127px;
+    line-height: 27px;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 24px;
+    padding-inline-start: 24px;
+    perspective-origin: 63.5px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 63.5px 27px;
+    width: 127px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 24px;
+}/*#DIV_25*/
+
+#DIV_25:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_25:after*/
+
+#DIV_25:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_25:before*/
+
+#PICTURE_26, #IMG_28 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: inline-block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 79px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    perspective-origin: 39.5px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 39.5px 27px;
+    vertical-align: middle;
+    width: 79px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_26, #IMG_28*/
+
+#PICTURE_26:after, #IMG_28:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_26:after, #IMG_28:after*/
+
+#PICTURE_26:before, #IMG_28:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_26:before, #IMG_28:before*/
+
+#DIV_29 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 152px;
+    line-height: 27px;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 24px;
+    padding-inline-start: 24px;
+    perspective-origin: 76px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 76px 27px;
+    width: 152px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 24px;
+}/*#DIV_29*/
+
+#DIV_29:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_29:after*/
+
+#DIV_29:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_29:before*/
+
+#PICTURE_30, #IMG_32 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: inline-block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 104px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    perspective-origin: 52px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 52px 27px;
+    vertical-align: middle;
+    width: 104px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_30, #IMG_32*/
+
+#PICTURE_30:after, #IMG_32:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_30:after, #IMG_32:after*/
+
+#PICTURE_30:before, #IMG_32:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_30:before, #IMG_32:before*/
+
+#DIV_33 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 122px;
+    line-height: 27px;
+    min-block-size: auto;
+    min-height: auto;
+    min-inline-size: auto;
+    min-width: auto;
+    padding-inline-end: 24px;
+    padding-inline-start: 24px;
+    perspective-origin: 61px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 61px 27px;
+    width: 122px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+    padding: 0px 24px;
+}/*#DIV_33*/
+
+#DIV_33:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_33:after*/
+
+#DIV_33:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#DIV_33:before*/
+
+#PICTURE_34, #IMG_36 {
+    block-size: 54px;
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    display: inline-block;
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    height: 54px;
+    inline-size: 74px;
+    line-height: 27px;
+    max-inline-size: 100%;
+    max-width: 100%;
+    perspective-origin: 37px 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    transform-origin: 37px 27px;
+    vertical-align: middle;
+    width: 74px;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_34, #IMG_36*/
+
+#PICTURE_34:after, #IMG_36:after {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_34:after, #IMG_36:after*/
+
+#PICTURE_34:before, #IMG_36:before {
+    border-block-end-color: rgba(45, 45, 45, 0.8);
+    border-block-start-color: rgba(45, 45, 45, 0.8);
+    border-inline-end-color: rgba(45, 45, 45, 0.8);
+    border-inline-start-color: rgba(45, 45, 45, 0.8);
+    box-sizing: border-box;
+    caret-color: rgba(45, 45, 45, 0.8);
+    color: rgba(45, 45, 45, 0.8);
+    column-rule-color: rgba(45, 45, 45, 0.8);
+    font-family: aktiv-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-variant: lining-nums;
+    font-variant-numeric: lining-nums;
+    line-height: 27px;
+    text-align: center;
+    text-decoration: none solid rgba(45, 45, 45, 0.8);
+    text-emphasis-color: rgba(45, 45, 45, 0.8);
+    text-size-adjust: 100%;
+    border: 0px none rgba(45, 45, 45, 0.8);
+    outline: rgba(45, 45, 45, 0.8) none 0px;
+}/*#PICTURE_34:before, #IMG_36:before*/
+

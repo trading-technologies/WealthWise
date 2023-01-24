@@ -24,10 +24,40 @@
     <link href="static/css/line-awesome.min.css" rel="stylesheet">
     <link href="static/css/model-window.css" rel="stylesheet">
     <link href="static/css/style.css" rel="stylesheet">
+    <link href="static/css/custom.css" rel="stylesheet">
 
     <!-- Analytics -->
-    <!-- <script defer data-domain="wealthwise.com" src="https://shadow-analytics.com/js/script.js"></script>
-    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script> -->
+<!--    <script defer data-domain="wealthwise.com" src="https://shadow-analytics.com/js/script.js"></script>-->
+<!--    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>-->
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11076269914"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'AW-11076269914');
+    </script>
+
+
+    <!-- Event snippet for Downloads conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+        function gtag_report_conversion(url) {
+            var callback = function () {
+                if (typeof(url) != 'undefined') {
+                    window.location = url;
+                }
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-11076269914/e6xwCKOym4kYENruyaEp',
+                'event_callback': callback
+            });
+            return false;
+        }
+    </script>
+
 
     <!-- Hotjar Tracking Code for https://trading-technologies.github.io/WealthWise/ -->
     <script>
@@ -100,10 +130,10 @@
             </div>
             <div class="navbar-social side-icons">
                 <ul class="list-unstyled d-flex m-0">
-                    <a class="social-icon-clr" href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a>
-                    <a class="social-icon-clr" href="javascript:void(0);"><i class="fab fa-twitter"></i></a>
-                    <a class="social-icon-clr" href="javascript:void(0);"><i class="fab fa-linkedin-in"></i></a>
-                    <a class="social-icon-clr" href="javascript:void(0);"><i class="fab fa-instagram"></i></a>
+                    <a class="social-icon-clr" target="_blank" href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
+                    <a class="social-icon-clr" target="_blank" href="https://twitter.com"><i class="fab fa-twitter"></i></a>
+                    <a class="social-icon-clr" target="_blank" href="https://linkedin.com"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="social-icon-clr" target="_blank" href="https://instagram.com"><i class="fab fa-instagram"></i></a>
                 </ul>
             </div>
         </div>
@@ -155,7 +185,7 @@
                 <div class="col-12 col-md-6">
                     <h1 class="main-font font-weight-bold text-white">WealthWise <span class="d-block text-blue">Make your money work for you</span></h1>
                     <p class="alt-font text-white my-3">Comprehensive financial planning software that utilizes advanced artificial intelligence and data visualization tools to help you optimize your investments, plan for the future, and cut your spending without changing your lifestyle.</p>
-                    <a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize mt-3 mb-5 mb-md-0 btn-download">Download</a>
+                    <a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize mt-3 mb-5 mb-md-0 btn-download">Free Trial</a>
                 </div>
                 <div class="col-12 col-md-6">
                     <div class="banner-image" data-depth="0.07">
@@ -203,6 +233,55 @@
                         <span class="animated-circle position-relative"></span>
                     </a>
               </span>
+        </div>
+    </div>
+    <div class="wp-block-cover alignfull has-secondary-light-background-color has-background-dim half-top-bottom-padding industry-logo-block-wrapper section-logobar-secondary" id="DIV_1">
+        <div class="wp-block-cover__inner-container" id="DIV_2">
+            <h2 class="has-text-align-center has-block-align-none" id="H2_3">
+                WealthWise customers include
+            </h2>
+            <div class="industry-logo-block" id="DIV_4">
+                <div class="industry-logo" id="DIV_5">
+                    <picture id="PICTURE_6">
+                        <source id="SOURCE_7" /><img src="https://i0.wp.com/testlio.com/wp-content/uploads/2020/07/Logo-Amazon-pngcontainer.png?ssl=1" alt="" class="webpexpress-processed" width="81" height="54" id="IMG_8" />
+                    </picture>
+                </div>
+                <div class="industry-logo" id="DIV_9">
+                    <picture id="PICTURE_10">
+                        <source id="SOURCE_11" /><img src="https://i0.wp.com/testlio.com/wp-content/uploads/2020/07/Logo-Athenahealth-pngcontainer.png?ssl=1" alt="" class="webpexpress-processed" width="135" height="54" id="IMG_12" />
+                    </picture>
+                </div>
+                <div class="industry-logo" id="DIV_13">
+                    <picture id="PICTURE_14">
+                        <source id="SOURCE_15" /><img src="https://i0.wp.com/testlio.com/wp-content/uploads/2020/07/Logo-Microsoft-pngcontainer.png?ssl=1" alt="" class="webpexpress-processed" width="109" height="54" id="IMG_16" />
+                    </picture>
+                </div>
+                <div class="industry-logo" id="DIV_17">
+                    <picture id="PICTURE_18">
+                        <source id="SOURCE_19" /><img src="https://i0.wp.com/testlio.com/wp-content/uploads/2020/07/Logo-NBA-pngcontainer.png?ssl=1" alt="" class="webpexpress-processed" width="24" height="54" id="IMG_20" />
+                    </picture>
+                </div>
+                <div class="industry-logo" id="DIV_21">
+                    <picture id="PICTURE_22">
+                        <source id="SOURCE_23" /><img src="https://i0.wp.com/testlio.com/wp-content/uploads/2021/04/Logo-Netflix-pngcontainer-v2.png?ssl=1" alt="" class="webpexpress-processed" width="82" height="54" id="IMG_24" />
+                    </picture>
+                </div>
+                <div class="industry-logo" id="DIV_25">
+                    <picture id="PICTURE_26">
+                        <source id="SOURCE_27" /><img src="https://i0.wp.com/testlio.com/wp-content/uploads/2022/12/paramount_logo_black.png?ssl=1" alt="" class="webpexpress-processed" width="79" height="54" id="IMG_28" />
+                    </picture>
+                </div>
+                <div class="industry-logo" id="DIV_29">
+                    <picture id="PICTURE_30">
+                        <source id="SOURCE_31" /><img src="https://i0.wp.com/testlio.com/wp-content/uploads/2022/04/Logo-PayPal-pngcontainer@2x.png?ssl=1" alt="" class="webpexpress-processed" width="104" height="54" id="IMG_32" />
+                    </picture>
+                </div>
+                <div class="industry-logo" id="DIV_33">
+                    <picture id="PICTURE_34">
+                        <source id="SOURCE_35" /><img src="https://i0.wp.com/testlio.com/wp-content/uploads/2020/07/Logo-SAP-pngcontainer.png?ssl=1" alt="" class="webpexpress-processed" width="74" height="54" id="IMG_36" />
+                    </picture>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -504,10 +583,10 @@
                     </ul>
                     <div class="slider-social side-icons">
                         <ul class="list-unstyled d-flex">
-                            <a class="social-icon" href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a>
-                            <a class="social-icon" href="javascript:void(0);"><i class="fab fa-twitter"></i></a>
-                            <a class="social-icon" href="javascript:void(0);"><i class="fab fa-linkedin-in"></i></a>
-                            <a class="social-icon" href="javascript:void(0);"><i class="fab fa-instagram"></i></a>
+                            <a class="social-icon" target="_blank" href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
+                            <a class="social-icon" target="_blank" href="https://twitter.com"><i class="fab fa-twitter"></i></a>
+                            <a class="social-icon" target="_blank" href="https://linkedin.com"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="social-icon" target="_blank" href="https://instagram.com"><i class="fab fa-instagram"></i></a>
                         </ul>
                     </div>
                 </div>
@@ -546,7 +625,7 @@
                             <p>Our Basic Mode offers a streamlined interface with only the most essential features, making it easy for users to quickly access the information they need.</p>
 
                             <div class="row pb-4 mt-3 mt-md-0">
-                                <div class="col-12 price-modal"><h1>$2990.00</h1></div>
+                                <div class="col-12 price-modal"><h1>$299.00</h1></div>
                                 <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize btn-download">Free Trial</a></div>
                             </div>
                         </div>
@@ -586,7 +665,7 @@
                             <p>Our Advanced Mode offers a full suite of tools and features for more experienced users looking to take a deeper dive into their financial data. With advanced artificial intelligence and data visualization tools, this mode is perfect for those looking to optimize their investments and plan for the future.</p>
 
                             <div class="row pb-4 mt-3 mt-md-0">
-                                <div class="col-12 price-modal"><h1>$2990.00</h1></div>
+                                <div class="col-12 price-modal"><h1>$299.00</h1></div>
                                 <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize btn-download">Free Trial</a></div>
                             </div>
                         </div>
@@ -619,12 +698,13 @@
                             <!--/.Carousel Wrapper-->
                         </div>
                         <div class="morphic-title col-12 col-md-6">
+
                             <h5>Clean and modern design for a fresh perspective</h5>
                             <h3>A fresh start</h3>
                             <p>Our White Mode offers a clean and modern design that is perfect for users looking for a fresh start. With a minimalist interface and crisp white design, this mode is perfect for those looking for a more streamlined and contemporary experience.</p>
 
                             <div class="row pb-4 mt-3 mt-md-0">
-                                <div class="col-12 price-modal"><h1>$2990.00</h1></div>
+                                <div class="col-12 price-modal"><h1>$299.00</h1></div>
                                 <div class="col-12 modal-btn"><a target="_blank" href="static/installer/WealthWise.exe" data-analytics='"Download"' class="btn btn-medium btn-rounded btn-red text-capitalize btn-download">Free Trial</a></div>
                             </div>
                         </div>
@@ -668,58 +748,54 @@
 <script src="static/js/script.js"></script>
 
 <!-- Plausible -->
-<!--
-<script>
-    let links = document.querySelectorAll("a[data-analytics]");
-    for (var i = 0; i < links.length; i++) {
-        links[i].addEventListener('click', handleLinkEvent);
-        links[i].addEventListener('auxclick', handleLinkEvent);
-    }
+<!--<script>-->
+<!--    let links = document.querySelectorAll("a[data-analytics]");-->
+<!--    for (var i = 0; i < links.length; i++) {-->
+<!--        links[i].addEventListener('click', handleLinkEvent);-->
+<!--        links[i].addEventListener('auxclick', handleLinkEvent);-->
+<!--    }-->
 
-    function handleLinkEvent(event) {
-        var link = event.target;
-        var middle = event.type == "auxclick" && event.which == 2;
-        var click = event.type == "click";
-        while (link && (typeof link.tagName == 'undefined' || link.tagName.toLowerCase() != 'a' || !link.href)) {
-            link = link.parentNode;
-        }
-        if (middle || click) {
-            let attributes = link.getAttribute('data-analytics').split(/,(.+)/);
-            let events = [JSON.parse(attributes[0]), JSON.parse(attributes[1] || '{}')];
-            plausible(...events);
-        }
-        if (!link.target) {
-            if (!(event.ctrlKey || event.metaKey || event.shiftKey) && click) {
-                setTimeout(function () {
-                    location.href = link.href;
-                }, 150);
-                event.preventDefault();
-            }
-        }
-    }
-</script>
- -->
+<!--    function handleLinkEvent(event) {-->
+<!--        var link = event.target;-->
+<!--        var middle = event.type == "auxclick" && event.which == 2;-->
+<!--        var click = event.type == "click";-->
+<!--        while (link && (typeof link.tagName == 'undefined' || link.tagName.toLowerCase() != 'a' || !link.href)) {-->
+<!--            link = link.parentNode;-->
+<!--        }-->
+<!--        if (middle || click) {-->
+<!--            let attributes = link.getAttribute('data-analytics').split(/,(.+)/);-->
+<!--            let events = [JSON.parse(attributes[0]), JSON.parse(attributes[1] || '{}')];-->
+<!--            plausible(...events);-->
+<!--        }-->
+<!--        if (!link.target) {-->
+<!--            if (!(event.ctrlKey || event.metaKey || event.shiftKey) && click) {-->
+<!--                setTimeout(function () {-->
+<!--                    location.href = link.href;-->
+<!--                }, 150);-->
+<!--                event.preventDefault();-->
+<!--            }-->
+<!--        }-->
+<!--    }-->
+<!--</script>-->
 
 <!-- LinkedIn -->
-<!--
-<script type="text/javascript">
-    _linkedin_partner_id = "4959921";
-    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
-    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
-</script><script type="text/javascript">
-    (function(l) {
-        if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
-            window.lintrk.q=[]}
-        var s = document.getElementsByTagName("script")[0];
-        var b = document.createElement("script");
-        b.type = "text/javascript";b.async = true;
-        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
-        s.parentNode.insertBefore(b, s);})(window.lintrk);
-</script>
-<noscript>
-    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4959921&fmt=gif" />
-</noscript>
--->
+<!--<script type="text/javascript">-->
+<!--    _linkedin_partner_id = "4959921";-->
+<!--    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];-->
+<!--    window._linkedin_data_partner_ids.push(_linkedin_partner_id);-->
+<!--</script><script type="text/javascript">-->
+<!--    (function(l) {-->
+<!--        if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};-->
+<!--            window.lintrk.q=[]}-->
+<!--        var s = document.getElementsByTagName("script")[0];-->
+<!--        var b = document.createElement("script");-->
+<!--        b.type = "text/javascript";b.async = true;-->
+<!--        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";-->
+<!--        s.parentNode.insertBefore(b, s);})(window.lintrk);-->
+<!--</script>-->
+<!--<noscript>-->
+<!--    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4959921&fmt=gif" />-->
+<!--</noscript>-->
 
 <!-- Click Action -->
 <script type="text/javascript">
@@ -744,14 +820,17 @@
     }
 
     function postEvent() {
+        // Google
+        gtag_report_conversion();
+
         // LinkedIn
-        window.lintrk('track', { conversion_id: 11582377 });
+        //window.lintrk('track', { conversion_id: 11582377 });
 
+        // Eva
         // Get the postback URL with the utm_click parameter
-        let postbackUrl = getPostbackUrl();
-
+        //let postbackUrl = getPostbackUrl();
         // Send the request to the postback URL
-        sendPostback(postbackUrl);
+        //sendPostback(postbackUrl);
     }
 
     // Get all button elements with the specific class
